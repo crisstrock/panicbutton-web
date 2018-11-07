@@ -1,0 +1,18 @@
+#modificar{width:28%; } 
+#eliminar{width:30px;} 
+#imprimir{width:28%;} a{margin-left: -12px; padding: 08px;}
+#customers { border-collapse: collapse; margin-top: 10px; margin-left: 116px; } 
+#botones{width:200px;}
+#customers td, #customers th { border: 1px solid #757C7B; padding: 6px; width:90px; height: 20px;
+ font-family: sans-serif; text-align: center;}
+label{width: 40px;}
+#customers tr{}#customers  tr:hover {background-color: #C4CED5;}
+#customers th { padding-top: 12px; padding-bottom: 12px; text-align: left; background:rgba(50, 51, 52,.5); 
+	color:black; text-align: center; font-family: sans-serif;} 
+input{width:300px; height:25px; margin-top: 5px;}
+#aceptar{width:140px; height:40px; font-weight: 600; font-size: 16px;  color: white;  background-color:black;
+ border-bottom: none;  margin: 30px 250px;}
+.aceptar:hover{   border: 3px solid  rgba(246, 251, 231,.55); text-align:  } h4{margin-top: 40px; color: black;}
+#agregar{width:3.5%; margin-left: 1080px; margin-top: 10px;} 
+
+
